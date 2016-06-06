@@ -1,8 +1,9 @@
 # Header Menu
 menu:
   首页: /
-  团建项目: /projects/
   骑行志: /archives/ # can set archive-dir in root config to custom value
+  团建项目: /projects/
+  单车租赁: /rent/
   联系我们: /contact/
   关于我们: /about/
 
