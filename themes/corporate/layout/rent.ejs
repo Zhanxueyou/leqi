@@ -1,1 +1,10 @@
-<%- partial('_partial/rent') %>
+<div class="container">
+	<ul class="breadcrumb">
+		<li><a href="/">首页</a></li>
+		<li class="active"><%- page.title %></li>
+	</ul>
+</div>
+<!-- BEGIN CONTENT -->
+	<%- page.content %>
+	<%- partial('_partial/rent') %>
+<!-- END CONTENT -->
